@@ -1,0 +1,6 @@
+github.com/aclivo/fast v1.0.0 h1:UtQRAdh/cZhtoqTRVu4YZqT0W1K5Ix/xet01VSBAcgA=
+github.com/aclivo/fast v1.0.0/go.mod h1:feukfu+sy1x0qF8Gx96fpauTIj+YQDm7B9fVsoUE8tI=
+github.com/aclivo/olap v1.0.1 h1:2jzqgIneFhDHCNnUVdlPkr3EVfLftlcWsoLQnib6Ei0=
+github.com/aclivo/olap v1.0.1/go.mod h1:FvItmg2AOsh8KJmYPKDll/SEmnAkA9A9C6kg/+1W73U=
+github.com/aclivo/std v1.0.0 h1:rMuTixiBsrH7cQtq89ELoi+WLnVzqZgKsKcf3Y19IJk=
+github.com/aclivo/std v1.0.0/go.mod h1:QKJeYzVoDfYpkvNSTStC8w1f9Pm1BAOYNFwTE4/9Omc=
